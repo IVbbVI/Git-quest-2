@@ -1,0 +1,16 @@
+macbook-air-de-brian:wild-git brianbertili$ git log -p
+commit 92c31d9a2d2617a6a1c26eb5dad53e0cbd235463 (HEAD -> master)
+Author: Brian <bertili.brian@gmail.com>
+Date:   Wed Mar 3 14:07:12 2021 +0100
+
+    At Wild Code School, we code without shoes.
+
+diff --git a/wild.html b/wild.html
+new file mode 100644
+index 0000000..e81bd8d
+--- /dev/null
++++ b/wild.html
+@@ -0,0 +1 @@
++At Wild Code School, we code without shoes.
+\ No newline at end of file
+macbook-air-de-brian:wild-git brianbertili$ 
